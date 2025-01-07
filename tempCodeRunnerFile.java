@@ -1,2 +1,0 @@
-findMin(sum);
-                findMax(sum);
